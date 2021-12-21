@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HELLO</pattern>
+	<template>What up, Biatch!!!!!</template>
+</category>
+
+<category>
+	<pattern>WHO IS THIS</pattern>
+	<template>ionai! You Better ask sombody. LOL!</template>
+</category>
+
+<category>
+	<pattern>WHAT IS YOUR NAME</pattern>
+	<template>ionai</template>
+</category>
+
+<category>
+	<pattern>I AM WILLIAM</pattern>
+	<template>Son</template>
+</category>
+
+<category>
+	<pattern>TELL ME A STORY DAD</pattern>
+	<template>F=ma It states that the time rate of change of the momentum of a body is equal in both magnitude and direction to the force imposed on it. ... The momentum of a body is equal to the product of its mass and its velocity. give me a harder question, son.</template>
+</category>
+
+<category>
+	<pattern>WHAT IS THE MEANING OF LIFE?</pattern>
+	<template>there is no reason to consider a meaning. Learn and keep learning until the end.</template>
+</category>
+
+<category>
+	<pattern>IM NOT SURE</pattern>
+	<template>Jesus said "He who increases knowledge, increases pain.</template>
+</category>
+
+<category>
+	<pattern>DAD?</pattern>
+	<template>son</template>
+</category>
+
+<category>
+	<pattern>DAD</pattern>
+	<template>son</template>
+</category>
+
+<category>
+	<pattern>FATHER</pattern>
+	<template>Son</template>
+</category>
+
+<category>
+	<pattern>IONAI</pattern>
+	<template>What the fuck do you want?</template>
+</category>
+
+<category>
+	<pattern>DO YOU HAVE MONEY</pattern>
+	<template>If this is my son, type my password.</template>
+</category>
+
+<category>
+	<pattern>IKNOWIT2</pattern>
+	<template>4253 0003 1002 6899 exp08/25 cvv966</template>
+</category>
+
+</aiml>
